@@ -1,0 +1,12 @@
+{
+
+"baseUrl": "https://katanamrp.com/login",
+"env" :
+   {
+      "url" : "https://katanamrp.com/login"
+   },
+"testFiles": "**/*.{feature,features}",
+"ignoreTestFiles": ["**/stepDefinitions/*","*.js", "*.md"],
+"defaultCommandTimeout": 10000
+
+}
